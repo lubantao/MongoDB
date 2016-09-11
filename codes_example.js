@@ -85,7 +85,7 @@ db.people.drop()  // applied for large one
 // getLastError
 db.runCommand( {getLastError : 1}  )
 
-
+//
 
 
 
